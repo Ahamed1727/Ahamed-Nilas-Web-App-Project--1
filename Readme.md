@@ -6,8 +6,10 @@ A simple Node.js web application displaying "Ahamed Nilas New WebApp".
 
 1. Clone this repository
 2. Install dependencies: `npm install`
-3. Run the app: `npm start`
-4. Access at: http://localhost:5000
+3. Type : `npm install express dotenv`
+4. initialize npm : `npm init -y`
+5. Run the app: `npm start`
+6. Access at: http://localhost:5000
 
 For development with auto-reload:
 ```bash

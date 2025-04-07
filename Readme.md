@@ -21,7 +21,7 @@ A simple Node.js web application displaying "Ahamed Nilas New WebApp".
 7. Run The App : `npm start run`
 8. then go to ec2 instance >> Security >> Security Group Name >> inbound rules >> Add Rule >> add Port : 5000 >> leave the rest as default And Save
 9. ====================== Boom Your Web Application Launched Globally ==================================
-10. Access at: http//<your ec2publicIP>:5000   
+10. Access at: http//yourec2publicIP:5000   
 
 For development with auto-reload:
 ```bash

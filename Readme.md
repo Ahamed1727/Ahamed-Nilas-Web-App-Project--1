@@ -14,7 +14,7 @@ A simple Node.js web application displaying "Ahamed Nilas New WebApp".
 ## EC2 Deployment
 1. Create EC2 Instance
 2. Connect That Instance Via MobaXterm or Terminal
-3. Install Dependencies : `sudo apt-get update` `sudo apt-get install -y nodejs`
+3. Install Dependencies : 1 `sudo apt-get update` 2 `sudo apt-get install -y nodejs`
 4. install Git : `sudo apt install git`
 5. clone repository : `https://github.com/Ahamed1727/Ahamed-Nilas-Web-App-Project--1`
 6. open cloned repostory/directory and : 1 `npm install` 2 `npm install express dotenv`
